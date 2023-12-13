@@ -1,0 +1,50 @@
+#inicio{
+    background-image: url('../img/fondo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    text-align: center;
+}
+nav li {
+    display: inline;
+    font-family: 'Raleway', sans-serif;;
+    font-size: 20px;
+}
+nav a {
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+}
+
+#Bienvenidos{
+    font-size: 23px;
+    text-transform: uppercase;
+    font-family: 'Raleway', sans-serif;
+}
+#tituloPrincipal{
+    font-family: 'Merienda', cursive;
+    font-size: 80px;
+}
+.fondo-destacado {
+    background-color: #8894A4;
+}
+#fondo-cuerpo{
+    background-color: #E5EBED;
+}
+#cuerpo{
+    width: 960px;
+    margin: 0px auto;
+    margin-top: 25px;
+    background-color: white;
+}
+#reserva{
+    display: inline;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    font-size: 18px;
+    background-color: #8894A4;
+    padding: 10px 5px 40px 3px;
+}
+#reserva li {
+    padding: 80px; 
+}
